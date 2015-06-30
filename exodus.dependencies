@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_sony_scorpion_windy",
+    "repository": "device_sony_scorpion_windy",
     "target_path": "device/sony/scorpion_windy"
   }
 ]
